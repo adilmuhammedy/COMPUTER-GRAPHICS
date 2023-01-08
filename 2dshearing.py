@@ -1,5 +1,3 @@
-# 20220001 ADIL MUHAMMED Y SHEARING
-
 from OpenGL.GL import *
 from OpenGL.GLU import *
 from OpenGL.GLUT import *
